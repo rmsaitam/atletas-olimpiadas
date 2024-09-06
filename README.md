@@ -1,2 +1,2 @@
 # atletas-olimpiadas
-Projeto da Imersão Dev com Google Gemini da Alura
+Projeto Imersão Dev com Google Gemini da Alura
